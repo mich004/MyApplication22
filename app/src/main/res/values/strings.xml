@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application22</string>
+    <string name="enterText">Enter Text</string>
+    <string name="cEncrypt">Ceaser Encrypt</string>
+    <string name="cDecrypt">Ceaser Decrypt</string>
+    <string name="rEncrypt">ROT13 Encrypt</string>
+    <string name="rDecrypt">ROT13 Decrypt</string>
+</resources>
